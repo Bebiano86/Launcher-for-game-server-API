@@ -1,0 +1,4 @@
+C:\Users\claud\source\repos\Launcher Server\obj\Release\Launcher_Server.Form1.resources
+C:\Users\claud\source\repos\Launcher Server\obj\Release\Launcher_Server.Resources.resources
+C:\Users\claud\source\repos\Launcher Server\obj\Release\Launcher Server.vbproj.GenerateResource.cache
+C:\Users\claud\source\repos\Launcher Server\obj\Release\Launcher Server.vbproj.CoreCompileInputs.cache
